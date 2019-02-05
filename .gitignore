@@ -43,3 +43,4 @@ erl_crash.dump
 .idea/
 *.iml
 /target/
+__pycache__/
