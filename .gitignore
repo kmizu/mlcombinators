@@ -51,3 +51,4 @@ build
 .gradle
 
 *.jar
+node_modules/

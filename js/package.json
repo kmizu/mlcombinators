@@ -1,0 +1,29 @@
+{
+  "name": "es_copmbinator",
+  "version": "0.0.1",
+  "description": "A ES2015 Parser Combinator Library",
+  "main": "combinator.js",
+  "scripts": {
+    "test": "ava -v"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmizu/es_copmbinator.git"
+  },
+  "keywords": [
+    "parser"
+  ],
+  "author": "Kota Mizushima",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kmizu/es_copmbinator/issues"
+  },
+  "homepage": "https://github.com/kmizu/es_copmbinator#readme",
+  "devDependencies": {
+    "ava": "^0.15.1",
+    "babel-preset-es2015": "^6.9.0",
+    "babelify": "^7.3.0",
+    "npm-watch": "^0.1.4",
+    "watch": "^0.18.0"
+  }
+}
