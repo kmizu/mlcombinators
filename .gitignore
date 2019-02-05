@@ -52,3 +52,5 @@ build
 
 *.jar
 node_modules/
+.haxelib
+java

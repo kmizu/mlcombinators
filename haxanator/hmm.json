@@ -1,0 +1,24 @@
+{
+  "dependencies": [
+    {
+      "name": "hxjava",
+      "type": "haxelib",
+      "version": "3.2.0"
+    },
+    {
+      "name": "install",
+      "type": "haxelib",
+      "version": null
+    },
+    {
+      "name": "stx_tuple",
+      "type": "haxelib",
+      "version": "0.2.2"
+    },
+    {
+      "name": "tink_core",
+      "type": "haxelib",
+      "version": "0.2.2"
+    }
+  ]
+}

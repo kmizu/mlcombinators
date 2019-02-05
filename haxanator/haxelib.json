@@ -1,0 +1,12 @@
+{
+  "name": "haxanator",
+  "url" : "https://github.com/kmizu/haxanator/",
+  "license": "MIT",
+  "tags": ["cross", "parser"],
+  "description": "This library is parser combinator library in Haxe on every platform.",
+  "version": "1.0.0",
+  "releasenote": "Pre-alpha",
+  "contributors": ["Kota Mizushima"],
+  "dependencies": {
+  }
+}
