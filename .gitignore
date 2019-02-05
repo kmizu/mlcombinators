@@ -44,3 +44,10 @@ erl_crash.dump
 *.iml
 /target/
 __pycache__/
+out
+.idea
+.idea/workspace.xml
+build
+.gradle
+
+*.jar
